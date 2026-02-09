@@ -229,8 +229,6 @@ It includes **organized folders with Dart programs** for each topic and an easy-
 
 ---
 
----
-
 ## Tags 🏷️
 
 <p align="center">
@@ -240,6 +238,4 @@ It includes **organized folders with Dart programs** for each topic and an easy-
   <a href="https://github.com/topics/learning"><img src="https://img.shields.io/badge/Learning-FF6F61?style=for-the-badge&logo=learning&logoColor=white" alt="Learning"/></a>
   <a href="https://github.com/topics/development"><img src="https://img.shields.io/badge/Dev-8E44AD?style=for-the-badge&logo=dev&logoColor=white" alt="Development"/></a>
 </p>
-
-## Folder Structure 💼
 
