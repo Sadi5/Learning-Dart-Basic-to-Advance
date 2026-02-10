@@ -8,7 +8,7 @@ It includes **organized folders with Dart programs** for each topic and an easy-
 
 ## Dart Roadmap Diagram 🗺️
 
-![Dart Roadmap](https://github.com/Sadi5/Learning-Dart-Basic-to-Advance-/blob/main/concepts.png)  
+![Dart Roadmap](https://github.com/Sadi5/Learning-Dart-Basic-to-Advance/blob/main/key_conceots.png)  
 
 
 ---
